@@ -5,7 +5,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Unsloth%20%2B%20TRL-green)](https://unsloth.ai)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Razon2006-yellow)](https://huggingface.co/Razon2006)
 [![Research](https://img.shields.io/badge/Research-IIT%20Madras%20WSAI-purple)](https://cerai.iitm.ac.in)
-[![BLEU](https://img.shields.io/badge/BLEU--4-26%2B-brightgreen)]()
+[![BLEU](https://img.shields.io/badge/BLEU--4-37%2B-brightgreen)]()
 
 > **Research internship project at Wadhwani School of AI and Data Science, IIT Madras**
 > Mentor: Dr. Sudarsun Santhiappan
