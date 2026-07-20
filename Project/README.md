@@ -1,4 +1,4 @@
-# Tamil Venba Pathasetham (பதசேதம்) — Automated Word Segmentation of Classical Tamil Poetry
+# Venba Pathasetham — Automated Word Segmentation of Classical Tamil Poetry
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
 [![Model](https://img.shields.io/badge/Model-Gemma%203%20270M-orange)](https://huggingface.co/google/gemma-3-270m-it)
