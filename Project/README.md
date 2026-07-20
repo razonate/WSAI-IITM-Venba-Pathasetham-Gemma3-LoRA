@@ -37,8 +37,8 @@ Standard BPE tokenizers split Tamil aksharas (grapheme clusters) sub-phonemicall
 ### 3. Low-Resource NLP
 ~3,700 training examples for a morphologically complex transformation task. The project explores what a 270M model can learn about classical Tamil grammar from minimal data.
 
-### 4. 6 Critical Bugs Discovered and Fixed
-The project documents and resolves 6 non-obvious bugs in the Unsloth/TRL SFT pipeline that silently corrupt training — useful reference for anyone doing Tamil LLM fine-tuning.
+### 4. Critical Bugs Discovered and Fixed
+The project documents and resolves non-obvious bugs in the Unsloth/TRL SFT pipeline that silently corrupt training — useful reference for anyone doing Tamil LLM fine-tuning.
 
 ---
 
