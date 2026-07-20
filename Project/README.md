@@ -100,7 +100,7 @@ No-space input: வ|ண்|மை|த|ரு மா|க|ம|நூன் வை|
 ```
 Removing all spaces forces the model to learn sandhi splitting purely from character-level patterns — a significantly harder task that tests genuine linguistic generalization.
 
-### Critical Bugs Fixed (Reference for Tamil LLM Community)
+### Critical Bugs Fixed
 
 | Bug | Symptom | Fix |
 |---|---|---|
