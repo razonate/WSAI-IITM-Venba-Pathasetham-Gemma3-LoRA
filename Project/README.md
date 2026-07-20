@@ -44,12 +44,12 @@ The project documents and resolves 6 non-obvious bugs in the Unsloth/TRL SFT pip
 
 ## Results
 
-| Configuration | BLEU-4 | Word Accuracy | Exact Match |
-|---|---|---|---|
+| Configuration | BLEU-4 |
+|---|---|
 | BPE, r=16, 50/50 split (baseline) | 18.44 |
 | BPE, r=16, 80/20 split | 22.68 |
-| **Grapheme tokenization, r=16, 80/20** | **+*37* |
-| Grapheme + no-space Venba  |  
+| **Grapheme tokenization, r=16, 80/20** | 37 |
+| Grapheme + no-space Venba  | 30 | 
 
 ---
 
