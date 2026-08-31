@@ -226,7 +226,6 @@ These correspond to Tamil-specific consonants (`ய`, `ற`, `ழ`, `ஞ`) with 
 
 ## Future Work
 
-- [ ] Web application on HuggingFace Spaces (Gradio)
 - [ ] Research paper submission (COLING / LREC-COLING / Indian NLP workshop)
 - [ ] Expand corpus to 10,000+ pairs from Thirukkural, Purananuru, Kambaramayanam
 - [ ] IndicBARTSS fine-tuning (expected BLEU 40-60)
