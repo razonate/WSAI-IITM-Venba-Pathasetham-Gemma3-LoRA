@@ -23,6 +23,7 @@ Output (Pathaseth): வண்மை தரும் ஆகம நூல் வ�
 ```
 
 This project builds the **first known ML pipeline** for automated Tamil Venba Pathasetham using supervised fine-tuning of Gemma 3 270M using LoRA, with a novel **grapheme-level tokenization scheme** that addresses the fundamental incompatibility between BPE tokenizers and Tamil's morphophonemic structure.
+https://huggingface.co/spaces/Razon2006/VenbaSegmentation
 
 ---
 
